@@ -1,0 +1,22 @@
+{
+  "name": "PodTestLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of PodTestLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liyq5/PodTestLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liyq5": "liyq5@asiainfo.com"
+  },
+  "source": {
+    "git": "https://github.com/liyq5/PodTestLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodTestLibrary/Classes/**/*"
+}
